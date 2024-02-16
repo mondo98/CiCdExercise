@@ -9,7 +9,9 @@
   "Icon": "icon-document",
   "Thumbnail": "folder.png",
   "Permissions": {
-    "AllowedChildContentTypes": []
+    "AllowedChildContentTypes": [
+      "umb://document-type/5c3c8144eb724a9681131e19bafaa6ca"
+    ]
   },
   "CompositionContentTypes": [],
   "PropertyGroups": [
@@ -33,6 +35,9 @@
     {
       "Udi": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
       "Ordering": true
+    },
+    {
+      "Udi": "umb://document-type/5c3c8144eb724a9681131e19bafaa6ca"
     },
     {
       "Udi": "umb://template/1441348fbe3b4402a1dbe69e2f963a9e",
