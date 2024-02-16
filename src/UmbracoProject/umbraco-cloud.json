@@ -1,7 +1,18 @@
 {
   "Deploy": {
     "Project": {
-      "Workspaces": []
+      "Name": "iains funny gorilla",
+      "Alias": "iains-funny-gorilla",
+      "Id": "dbcfa137-4cc5-4ef5-b4bd-57b131361137",
+      "TrialExpireDate": "2024-03-01T10:49:27.0000000",
+      "Workspaces": [
+        {
+          "Id": "9ec0dc1b-9015-4828-9ef9-e8cc7c3c0f25",
+          "Name": "Live",
+          "Type": "live",
+          "Url": "https://iains-funny-gorilla.euwest01.umbraco.io"
+        }
+      ]
     },
     "Settings": {}
   },
