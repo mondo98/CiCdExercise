@@ -8,6 +8,7 @@
   "HistoryCleanup": {},
   "Icon": "icon-application-error color-red",
   "Thumbnail": "folder.png",
+  "Description": "This was originally pulled in from live",
   "Permissions": {
     "AllowedChildContentTypes": []
   },
