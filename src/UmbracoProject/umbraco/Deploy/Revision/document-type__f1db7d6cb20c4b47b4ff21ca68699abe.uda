@@ -8,6 +8,7 @@
   "HistoryCleanup": {},
   "Icon": "icon-folder color-black",
   "Thumbnail": "folder.png",
+  "Description": "This is a small change to test git conflicts",
   "IsContainer": true,
   "Permissions": {
     "AllowedChildContentTypes": [
@@ -28,5 +29,5 @@
     }
   ],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
-  "__version": "13.0.3"
+  "__version": "13.0.4"
 }
