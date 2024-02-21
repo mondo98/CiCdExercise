@@ -1,8 +1,14 @@
 {
   "Name": "Collision",
   "Alias": "Collision",
+  "File": "umb://template-file/Collision.cshtml",
   "Udi": "umb://template/204e7ef08c82481abc8021c99956c919",
-  "Dependencies": [],
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/Collision.cshtml",
+      "Ordering": true
+    }
+  ],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
   "__version": "13.0.4"
 }
