@@ -8,6 +8,7 @@
   "HistoryCleanup": {},
   "Icon": "icon-folder color-black",
   "Thumbnail": "folder.png",
+  "Description": "This is a small change to test git conflicts",
   "IsContainer": true,
   "Permissions": {
     "AllowedChildContentTypes": [
