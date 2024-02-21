@@ -24,6 +24,7 @@
           "Key": "1f7bb52c-c3b2-42ab-85d9-6bd6d15b61d9",
           "Alias": "bodyText",
           "DataType": "umb://data-type/ca90c9500aff4e72b976a30b1ac57dad",
+          "Description": "Small change to test git conflicts",
           "Name": "Body Text"
         },
         {
@@ -56,5 +57,5 @@
     }
   ],
   "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
-  "__version": "13.0.3"
+  "__version": "13.0.4"
 }
