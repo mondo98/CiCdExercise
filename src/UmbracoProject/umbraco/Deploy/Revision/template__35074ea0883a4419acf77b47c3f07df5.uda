@@ -1,0 +1,14 @@
+{
+  "Name": "KUDU Collision",
+  "Alias": "KUDUCollision",
+  "File": "umb://template-file/KUDUCollision.cshtml",
+  "Udi": "umb://template/35074ea0883a4419acf77b47c3f07df5",
+  "Dependencies": [
+    {
+      "Udi": "umb://template-file/KUDUCollision.cshtml",
+      "Ordering": true
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.TemplateArtifact",
+  "__version": "13.0.4"
+}
