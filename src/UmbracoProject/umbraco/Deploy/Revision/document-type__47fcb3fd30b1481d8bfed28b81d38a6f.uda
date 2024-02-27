@@ -8,6 +8,7 @@
   "HistoryCleanup": {},
   "Icon": "icon-scull color-red",
   "Thumbnail": "folder.png",
+  "Description": "change this to make things right",
   "Permissions": {
     "AllowedChildContentTypes": []
   },
