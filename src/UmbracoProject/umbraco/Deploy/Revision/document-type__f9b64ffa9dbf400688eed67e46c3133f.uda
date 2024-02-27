@@ -1,0 +1,26 @@
+{
+  "Name": "KUDU Collision",
+  "Alias": "kUDUCollision",
+  "DefaultTemplate": "umb://template/2526b762c9a243de9e3809589029fd80",
+  "AllowedTemplates": [
+    "umb://template/2526b762c9a243de9e3809589029fd80"
+  ],
+  "HistoryCleanup": {},
+  "Icon": "icon-document",
+  "Thumbnail": "folder.png",
+  "Permissions": {
+    "AllowedChildContentTypes": []
+  },
+  "CompositionContentTypes": [],
+  "PropertyGroups": [],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/f9b64ffa9dbf400688eed67e46c3133f",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/2526b762c9a243de9e3809589029fd80",
+      "Ordering": true
+    }
+  ],
+  "__type": "Umbraco.Deploy.Infrastructure,Umbraco.Deploy.Infrastructure.Artifacts.ContentType.DocumentTypeArtifact",
+  "__version": "13.0.4"
+}
